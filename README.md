@@ -31,3 +31,9 @@ const height = 10;
 const area = calculateArea(width, height);
 console.log(area); // Output: 50
 ```
+
+## 4 Fundamental Principles of Object-Oriented Programming:
+- Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism
